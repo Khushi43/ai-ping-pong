@@ -1,0 +1,15 @@
+body
+{
+background:cover;
+}
+
+#title{
+    background-color:rgb(103, 28, 174);
+    color:white;
+}
+
+.b1{
+    background-color:rgb(104, 54, 150);
+    color:white;
+    border-radius:50%;
+}
